@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+.box {
+	height: 100px;
+	width: 100%;
+	transition: 2s;
+	padding: 10px 20px;
+}
+.box:hover {
+	background-color: black;
+	height: 150px;
+}
+
+.header {
+	background-color: #cecece;
+}
+.small-blue {
+	height: 80px; 
+	width: 80px;
+	background-color: #189cf4;
+}
+.small-blue:hover {
+	background-color: #f904b4;
+}
+.text-box {
+	/*height: 200px;*/
+	padding: 20px;
+	font-family: sans-serif;
+	line-height: 1.2;
+	background-color: white;
+}
+.blue {
+	background-color: #189cf4;
+}
+.tourquise {
+	background-color: #1df2cb;
+}
+.green {
+	background-color: #caf796;
+}
+.yellow {
+	background-color: #f4e466;
+}

@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.box {
+	margin: 0;
+	float: left;
+	width: 400px;
+	height: 600px;
+}
+
+.blue {
+	background-color: #189cf4;
+}
+.tourquise {
+	background-color: #1df2cb;
+}
+.green {
+	background-color: #caf796;
+	/*position: relative;*/
+	
+	/*float: right;*/
+}
+.red {
+	background-color: red;
+	height: 150px;
+	width: 400px;
+	/*position: absolute;*/
+	margin-top: 450px;
+
+}
